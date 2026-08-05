@@ -57,9 +57,7 @@ flowchart LR
 └── lambda_function.py   # Lambda handler — triggered by S3 upload, calls Rekognition DetectLabels
 ```
 
-## Demo
 
-*(Add a link to your demonstration video here)*
 
 ## Conclusion
 
@@ -67,4 +65,4 @@ The project demonstrates a scalable, serverless solution for image processing, a
 
 ## Author
 
-**Nourhan Hamdy** — Computer Engineering
+**Nourhan Hamdy** — Computer Engineer
